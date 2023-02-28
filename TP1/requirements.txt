@@ -1,0 +1,7 @@
+gymnasium==0.27.0
+gymnasium[toy_text]==0.27.0
+jupyter==1.0.0
+matplotlib==3.6.2
+numpy==1.22.4
+seaborn==0.12.2
+
